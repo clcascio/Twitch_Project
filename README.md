@@ -16,6 +16,7 @@ This was the process:
     There were a few temporary tables I saved with interesting data, as well. 
 
 3. Analysis and Comparison:
+
     I am a very visual learner so as soon as I had my modified data I went ahead and created some graphs for it via Google Sheets. You can see these graphs in xxxxxxxxxxxx. One thing I found interesting was how popular the "Just Chatting" category was. It's not a video game, it's just a way for streamers to sit down and talk with their viewers about anything that comes up. This makes me wonder what people value more in Twitch streamers. Does it matter what game you are streaming as long as you have an entertaining personality? How much does the appearance of the individual matter and how would we translate that into data? 
     Lastly, I wanted to see if my findings matched with what others may have found. I did a quick google search for "most popular games on twitch" and surprisingly, not a single game listed by google was on my top 20 list. However I checked a site called "twitchtracker" and found that my findings matched up with theirs. I'm assuming they also have a web scraping process set up and some sort of API that constantly updates the website. 
 
